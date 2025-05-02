@@ -3,8 +3,6 @@
 I'm a tech enthusiast currently exploring web and app development. I enjoy building clean, responsive interfaces and learning new technologies along the way. I'm passionate about solving real-world problems with code and always open to collaboration and feedback.
 
 
-💻 **Tech Stack**
-
 ## 💻 Tech Stack
 
 ### Languages  

@@ -5,14 +5,12 @@ I'm a tech enthusiast currently exploring web and app development. I enjoy build
 
 ## 💻 Tech Stack
 
-### Languages  
-<img src="images/html.png" width="40"/> <img src="images/css.png" width="40"/> <img src="images/python.png" width="40"/> <img src="images/dart.png" width="40"/>
-
-### Tools  
-<img src="images/git.png" width="40"/> <img src="images/vscode.png" width="40"/> <img src="images/postman.png" width="40"/> <img src="images/eclipse.png" width="40"/>
-
-### Frameworks / Libraries  
-<img src="images/flutter.png" width="40"/>
+Languages
+<table> <tr> <td align="center"><img src="images/html.png" width="40"/><br>HTML</td> <td align="center"><img src="images/css.png" width="40"/><br>CSS</td> <td align="center"><img src="images/python.png" width="40"/><br>Python</td> <td align="center"><img src="images/dart.png" width="40"/><br>Dart</td> </tr> </table>
+Tools
+<table> <tr> <td align="center"><img src="images/git.png" width="40"/><br>Git</td> <td align="center"><img src="images/vscode.png" width="40"/><br>VS Code</td> <td align="center"><img src="images/postman.png" width="40"/><br>Postman</td> <td align="center"><img src="images/eclipse.png" width="40"/><br>Eclipse</td> </tr> </table>
+Frameworks / Libraries
+<table> <tr> <td align="center"><img src="images/flutter.png" width="40"/><br>Flutter</td> </tr> </table>
 
 
 
